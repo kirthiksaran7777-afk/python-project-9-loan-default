@@ -112,6 +112,8 @@ The dataset contains borrower and loan-related information, including:
 * Improved decision-making for loan approvals.
 * Enhanced credit risk management strategies.
 * Interactive reporting and visualization for stakeholders.
+* <img width="874" height="594" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/42f771e1-b416-44e9-a2b6-fcb373ce54e1" />
+
 
 Conclusion
 
