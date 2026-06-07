@@ -1,5 +1,3 @@
-
-
 Introduction
 
 Loan default is one of the major challenges faced by banks and financial institutions. Incorrect loan approval decisions can lead to increased financial losses, non-performing assets (NPAs), and poor credit risk management. With the availability of large volumes of customer and loan-related data, data analytics can be used to identify patterns associated with loan repayment behavior.
