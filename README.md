@@ -112,9 +112,21 @@ The dataset contains borrower and loan-related information, including:
 * Improved decision-making for loan approvals.
 * Enhanced credit risk management strategies.
 * Interactive reporting and visualization for stakeholders.
-* <img width="874" height="594" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/42f771e1-b416-44e9-a2b6-fcb373ce54e1" />
+  
 
 
 Conclusion
 
 This project demonstrates how data analytics and machine learning techniques can be applied to loan datasets to understand borrower behavior and assess credit risk. Through EDA, predictive modeling, and dashboard visualization, the system provides valuable insights that can assist financial institutions in minimizing default risks and improving loan approval processes.
+<img width="874" height="594" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/b73a1e17-e49a-4982-b781-10183d98bd34" />
+<img width="874" height="594" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/4f2d76f1-5f2c-4d1c-88f6-2bcf169039b5" />
+<img width="874" height="594" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/041fb881-5e31-48ae-a81b-e47323bb74f7" />
+<img width="874" height="594" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/247dcf13-1a89-429a-86b0-bdac676ce7fc" />
+<img width="874" height="594" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/360ebaa7-62e2-4f01-94aa-ebf456a3ec7c" />
+<img width="1450" height="717" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/d491b1ab-3db6-4ee5-b943-48d9ae28cc5b" />
+<img width="1085" height="648" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/dd9f3273-5d0d-4997-86a2-a7d23d09f999" />
+
+
+
+
+
